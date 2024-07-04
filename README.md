@@ -1,4 +1,4 @@
-# Projeto para criação de modelo para previsão de nota do IMDb a partir de dados cinematográficos
+# Modelo para a previsão de nota do IMDb de um filme
 
 ## Pré-requisitos
 - Python 3.6 ou superior
