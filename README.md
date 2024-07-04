@@ -45,6 +45,7 @@
 O notebook `modelo.ipynb` contém exemplos detalhados de como carregar os dados, realizar o pré-processamento, treinar o modelo e fazer previsões. Aqui está um exemplo de como prever a nota IMDb de um novo filme:
 
 ```python
+import pandas as pd
 #Dados de exemplo para um novo filme
 dados_filme = {
     'Released_Year': [2021],
